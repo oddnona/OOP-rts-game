@@ -71,7 +71,3 @@ This allows the user to undo their actions. Additionally, the user is able to ex
 - Pressing this button allows the user to pick a location/file to save to.
 - At the start of the game, the user can choose to load and continue playing a presaved game. 
 
-
-Note that if you have less than 2 points for functionality, the design part is capped at 1.5 points.
-
-For design, we will be paying attention to things such as good use of inheritance, encapsulation, polymorphism etc.
