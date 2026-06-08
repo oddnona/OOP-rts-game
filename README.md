@@ -12,12 +12,12 @@ ___
 
 Each map is represented by an undirected, simple, unweighted graph.
 
-	- Every node has a unique (integer) id and a name.
-	- Every node has a list of edges.
-	- Every edge has a unique (integer) id and a name.
-	- An edge always connects two nodes.
-	- The user can add and remove nodes and edges using the buttons in the top menu
-    - Whenever a node is selected, a side panel pops up with the details of said node. Here, the user can place armies on the node, remove armies from the node, direct the armies towards a certain edge etc.
+- Every node has a unique (integer) id and a name.
+- Every node has a list of edges.
+- Every edge has a unique (integer) id and a name.
+- An edge always connects two nodes.
+- The user can add and remove nodes and edges using the buttons in the top menu
+- Whenever a node is selected, a side panel pops up with the details of said node. Here, the user can place armies on the node, remove armies from the node, direct the armies towards a certain edge etc.
 
 ---
 
